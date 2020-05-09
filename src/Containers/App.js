@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Cardlist from '../Components/cardlist';
 import Searchbar from '../Components/searchBar';
-import { robots } from '../robots';
 import './App.css'
 import Scroll from '../Components/scroll.js'
 import ErrorBoundry from '../Components/ErrorBoundry'
